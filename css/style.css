@@ -1,0 +1,30 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.title{
+    background-color: #C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    
+}
+
+footer{
+    background-color: #005677;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+header{
+    background-color: #E6E6E6; 
+    text-align: center;
+}
+
+.negrita{
+    font-weight: bold;
+    font-style: italic;
+}
+
+.negrita_normal{
+    font-weight: bold;
+}
